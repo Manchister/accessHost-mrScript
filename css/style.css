@@ -1,0 +1,13 @@
+
+.theForm {
+
+    margin-top: 80pt;
+}
+
+.bq-form {
+    border-left: #007E33 solid 4px;
+    border-radius: 20px;
+    padding-left: 20px;
+    border-right: #007E33 solid 4px;
+    padding-right: 20px;
+}
